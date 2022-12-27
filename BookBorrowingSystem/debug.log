@@ -1,0 +1,169 @@
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookAddFormPresentationModel.cs Line 28
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookAddFormPresentationModel envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		NAME
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookAddFormPresentationModel.cs Line 29
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookAddFormPresentationModel envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		NAME
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingForm.cs Line 86
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingForm envy BookBorrowingSystem.BookBorrowingFormPresentationModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetButtonName
+FeatureEnvyDetector	WARN		GetButtonCount
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingForm.cs Line 88
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingForm envy BookBorrowingSystem.BookBorrowingFormPresentationModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetButtonIndex
+FeatureEnvyDetector	WARN		GetButtonCount
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingForm.cs Line 91
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingForm envy BookBorrowingSystem.BookBorrowingFormPresentationModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetButtonImage
+FeatureEnvyDetector	WARN		GetButtonCount
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingForm.cs Line 105
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingForm envy BookBorrowingSystem.BookBorrowingFormPresentationModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		SetSelected
+FeatureEnvyDetector	WARN		ResetBorrowed
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BackPackForm.cs Line 59
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BackPackForm envy BookBorrowingSystem.BackPackFormPresentationModel
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		RemoveBorrow
+FeatureEnvyDetector	WARN		IsReturnLegal
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 36
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN		NAME
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 42
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 152
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		AddToBorrowedList
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 156
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		AddToBorrowedList
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 172
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 172
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 181
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 181
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 211
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN		NAME
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 321
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 322
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 324
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 325
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BookBorrowingFormPresentationModel.cs Line 328
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BookBorrowingFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\Library.cs Line 149
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.Library envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN		NUMBER
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\Library.cs Line 189
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.Library envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\Library.cs Line 194
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.Library envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN		COUNT
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\Library.cs Line 194
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.Library envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\Library.cs Line 194
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.Library envy BookBorrowingSystem.BookItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		REMAIN
+FeatureEnvyDetector	WARN		BOOK
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BackPackFormPresentationModel.cs Line 53
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BackPackFormPresentationModel envy BookBorrowingSystem.BorrowList
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		Remove
+FeatureEnvyDetector	WARN		GetBorrowedItem
+FeatureEnvyDetector	WARN	Finded Feature Envy
+FeatureEnvyDetector	WARN	at C:\Users\黃士儼\OneDrive\桌面\NTUT\111-1\視窗程式設計\HW\BookBorrowingSystem\BookBorrowingSystem\BackPackFormPresentationModel.cs Line 58
+FeatureEnvyDetector	WARN	 BookBorrowingSystem.BackPackFormPresentationModel envy BookBorrowingSystem.BorrowedItem
+FeatureEnvyDetector	WARN	use list:
+FeatureEnvyDetector	WARN		QUANTITY
+FeatureEnvyDetector	WARN		QUANTITY
